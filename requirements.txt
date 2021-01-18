@@ -4,9 +4,9 @@ whoosh==2.5.5
 argparse==1.1
 IPy==0.75
 restkit==4.2.2
-requests==2.7.0
-tornado==3.2
-flask==0.10.1
+requests==2.20
+tornado==3.2.2
+flask==0.12.3
 colorama==0.3.2
 #extra
 psycopg2==2.5.4
